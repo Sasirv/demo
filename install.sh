@@ -10,7 +10,8 @@ else
 	echo "$tool installed"
 fi
 
-echo "completed the task"
+echo "completed the new install tool based on users success"
+
 
 
 
