@@ -9,3 +9,8 @@ else
 	sudo apt install "$tool" -y &> /dev/null
 	echo "$tool installed"
 fi
+
+echo "completed the task"
+
+
+
