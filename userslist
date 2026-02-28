@@ -1,0 +1,3 @@
+#!/bin/bash
+today=$(date +"%a %b %d")
+last | grep "$today" | awk '{print $1}'

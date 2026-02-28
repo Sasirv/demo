@@ -1,0 +1,6 @@
+#! /bin/bash
+echo "Enter a number:"
+read a
+echo "Enter b number:"
+read b
+echo 'The sum of $a and $b is : $((a+b))"
